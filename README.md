@@ -11,7 +11,7 @@
          I. npm i <br />
          II. npm test <br />
          
-![Screenshot_1](https://user-images.githubusercontent.com/70914227/175516011-6de40dbd-ad3c-46a3-83aa-7378a4bd4144.png)
+![3](https://user-images.githubusercontent.com/70914227/175524992-b6de3c48-9c6c-4032-8521-af724392393f.png)
 ![1](https://user-images.githubusercontent.com/70914227/175524634-b606c29c-37a6-41dc-b817-d06e420efcea.png)
 ![2](https://user-images.githubusercontent.com/70914227/175524642-d98c16e8-118b-4dfa-b418-66b0c153a5bf.png)
 
